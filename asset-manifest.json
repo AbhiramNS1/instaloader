@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/instaloader/static/css/main.90ceb6e4.css",
+    "main.js": "/instaloader/static/js/main.a7a38807.js",
+    "static/js/787.bb24053f.chunk.js": "/instaloader/static/js/787.bb24053f.chunk.js",
+    "static/media/leafs.jpg": "/instaloader/static/media/leafs.389f62aa6ada1506c49f.jpg",
+    "static/media/Tapestry-Regular.ttf": "/instaloader/static/media/Tapestry-Regular.64dbaa2a1106f42266fb.ttf",
+    "index.html": "/instaloader/index.html",
+    "main.90ceb6e4.css.map": "/instaloader/static/css/main.90ceb6e4.css.map",
+    "main.a7a38807.js.map": "/instaloader/static/js/main.a7a38807.js.map",
+    "787.bb24053f.chunk.js.map": "/instaloader/static/js/787.bb24053f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ceb6e4.css",
+    "static/js/main.a7a38807.js"
+  ]
+}
